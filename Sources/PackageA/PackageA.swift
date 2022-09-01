@@ -1,4 +1,4 @@
-public struct PackageA {
+public struct A {
     public private(set) var text = "Hello, World!"
 
     public init() {
